@@ -11,8 +11,8 @@ redirect_from:
 
 [Full CV]({{ base_path }}/files/CV Jihoon Min.pdf)
 
-Professional experience
-======
+## Professional experience
+
 * 2015 - present: Research Scholar
   * International Institute for Applied Systems Analysis (IIASA)
   * Research program: Energy, Climate, and Environment (ECE)
@@ -26,21 +26,21 @@ Professional experience
   * LG Electronics, Inc., Seoul, Korea
 
 
-Education
-======
+## Education
+
 * Ph.D. in Engineering and Public Policy, Carnegie Mellon University, 2014
 * Master of Environmental Science, Yale School of Forestry and Environmental Studies, Yale University, 2008
 * M.S. in Electrical Engineering, Seoul National University, 2001
 * B.S. in Electrical Engineering, Seoul National University, 1999
   * Cum Laude
 
-Skills
-======
+## Skills
+
 * Analytical tools and languages
   * R, Python, GAMS, Matlab, Stata, SQL, ArcGIS, SAS, EnergyPlus, C/C++, Ruby
 
-Service and leadership
-======
+## Service and leadership
+
 * Internal
   * Co-chair, Committee on Cultural Diversity and Building a Positive Work Environment, IIASA, 2018
   * Liaison for Diversity Committee, Staff Association Committee, IIASA, 2017

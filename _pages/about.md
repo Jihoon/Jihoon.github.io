@@ -1,23 +1,34 @@
 ---
 permalink: /
-title: "About Jihoon"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Scholar with the Energy (ENE) Program at IIASA, with a broader research interest in the linkage between energy use, inequality, and development. I joined IIASA in September 2015. I worked as a part of the project Decent Living Energy, where I investigated the implications of accomplishing decent living standards in developing countries on the global energy/emissions pathways. For the project, I worked intensely with MRIO (multi-regional input-output) models to estimate consumption-based final energy footprints incurred by raising standards of living in developing countries. My previous works include quantification of uncertainties in consumption-based footprints, impacts of diet changes on energy and nutrition, empirical analysis setting standards for decent living, and impacts of lowering inequality on climate change.
+I am a Research Scholar within the Energy, Climate, and Environment (ENE) Program at IIASA, with a broader research interest in the linkage between energy use, inequality, and development. I joined IIASA in September 2015. I devoted my initial years at IIASA to the project [Decent Living Energy](https://www.decentlivingenergy.org/), where I investigated the implications of accomplishing decent living standards in developing countries on the global energy/emissions pathways.
 
-I am also interested in connecting industrial ecological approaches to the IAM (integrated assessment model) and investigating energy and material requirements in future scenarios.
+## Main research area
+* Energy Inequality, Energy and Human Wellbeing
+* Energy and Development
+* Energy Demand and Efficiency
+* Consumer Choice and Behavior
 
+## Analytical toolbox
+* Multiregional input-output analysis
+* Integrated assessment modeling (MESSAGEix)
+* Statistical analysis & Econometric modeling
+* Conjoint experiment & Discrete choice modeling
+* GIS
+* Building energy analysis
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-Past experiences
-======
-The topics of my previous research include residential energy consumption modeling, system-wide impact assessment of energy efficient technologies, and modeling of consumer choices for these technologies. Dr. Min received his doctorate in Engineering and Public Policy from Carnegie Mellon University (USA), where I investigated the behavioral aspects of the limited adoption of efficient technologies. I also holds an MESc from Yale School of Forestry and Environmental Studies (USA) and an MS in electrical engineering from Seoul National University (Korea). I have ample industry experience as a senior researcher at LG Electronics and as a senior demand-side analyst at Efficiency 2.0, a start-up where I launched an online tool for home energy/carbon audit with my colleagues, which is adopted by multiple electric utilities nationwide.
+
+## Background
+I received my doctorate in Engineering and Public Policy from Carnegie Mellon University (USA), where I investigated the behavioral aspects of the limited adoption of efficient technologies. I hold an MESc from Yale School of Forestry and Environmental Studies (USA) and an MS in electrical engineering from Seoul National University (Korea). I have ample industry experience as a senior researcher at LG Electronics and as a senior demand-side analyst at Efficiency 2.0, a start-up where I launched an online tool for home energy/carbon audit with my colleagues, which is adopted by multiple electric utilities nationwide.
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 

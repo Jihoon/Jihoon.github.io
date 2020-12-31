@@ -9,17 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Professional experience
 ======
 * 2015 - present: Research Scholar
   * International Institute for Applied Systems Analysis (IIASA)
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+  * Research program: Energy, Climate, and Environment (ECE)
+  * Research group: Transformative Institutional and Social Solutions (TISS)
 * 2014 - 2015: Postdoctoral Fellow
-  * Department of Engineering and Public Policy, Carnegie Mellon University, Pittsburgh PA, US
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Department of Engineering and Public Policy, Carnegie Mellon University
+  * Supervisor: Professor Ines Azevedo
+* 2008 – 2010: Senior Demand Side Analyst
+  * Efficiency 2.0 LLC, New York, NY, US
+* 2001 – 2005: Senior Engineer
+  * LG Electronics, Inc., Seoul, Korea
 
 
 Education
@@ -32,31 +34,18 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Analytical tools and languages
+  * R, Python, GAMS, Matlab, Stata, SQL, ArcGIS, SAS, EnergyPlus, C/C++, Ruby
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Internal
+  * Co-chair, Committee on Cultural Diversity and Building a Positive Work Environment, IIASA, 2018
+  * Liaison for Diversity Committee, Staff Association Committee, IIASA, 2017
+* External
+  * Topic editor, Sustainability (MDPI), 2020 -
+  * Head of the Energy and Environment Section, Korean Scientists and Engineers Association in Austria (KOSEAA), Austria, 2017 -
+
+Review activities
+======
+* Nature Sustainability, Global Environmental Change, Environmental Research Letters, Climatic Change, Energy Economics, Journal of Industrial Ecology, Sustainability, Energies, Journal of Environmental Management, Journal of Economic Structures, and GAIA - Ecological Perspectives for Science and Society

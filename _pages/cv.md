@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV]({{ base_path }}/files/CV Jihoon Min.pdf)
+
 Professional experience
 ======
 * 2015 - present: Research Scholar
@@ -45,7 +47,5 @@ Service and leadership
 * External
   * Topic editor, Sustainability (MDPI), 2020 -
   * Head of the Energy and Environment Section, Korean Scientists and Engineers Association in Austria (KOSEAA), Austria, 2017 -
-
-Review activities
-======
-* Nature Sustainability, Global Environmental Change, Environmental Research Letters, Climatic Change, Energy Economics, Journal of Industrial Ecology, Sustainability, Energies, Journal of Environmental Management, Journal of Economic Structures, and GAIA - Ecological Perspectives for Science and Society
+* Review activities
+  * Nature Sustainability, Global Environmental Change, Environmental Research Letters, Climatic Change, Energy Economics, Journal of Industrial Ecology, Sustainability, Energies, Journal of Environmental Management, Journal of Economic Structures, and GAIA - Ecological Perspectives for Science and Society

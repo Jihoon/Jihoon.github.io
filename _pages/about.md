@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Scholar within the Energy, Climate, and Environment (ENE) Program at IIASA, with a broader research interest in the linkage between energy use, inequality, and development. I joined IIASA in September 2015. I devoted my initial years at IIASA to the project [Decent Living Energy](https://www.decentlivingenergy.org/), where I investigated the implications of accomplishing decent living standards in developing countries on the global energy/emissions pathways.
+I am a Research Scholar at the Energy, Climate, and Environment (ECE) Program at IIASA, mainly affiliated with Transformative Institutional and Social Solutions (TISS) and Sustainable Service Systems (S3) Research Group. I joined IIASA in September 2015 and have broad research interests in the linkage between energy use, inequality, and development. I devoted my initial years at IIASA to the project [Decent Living Energy](https://www.decentlivingenergy.org/), where I investigated the implications of accomplishing decent living standards in developing countries on the global energy/emissions pathways. I am currently working on upscaling findings form the DLE project and incorporating them in the IIASA's integrated assessment model, MESSAGEix-GLOBIOM.
 
 ## Main research area
 * Energy Inequality, Energy and Human Wellbeing
@@ -28,7 +28,7 @@ I am a Research Scholar within the Energy, Climate, and Environment (ENE) Progra
 
 
 ## Background
-I received my doctorate in Engineering and Public Policy from Carnegie Mellon University (USA), where I investigated the behavioral aspects of the limited adoption of efficient technologies. I hold an MESc from Yale School of Forestry and Environmental Studies (USA) and an MS in electrical engineering from Seoul National University (Korea). I have ample industry experience as a senior researcher at LG Electronics and as a senior demand-side analyst at Efficiency 2.0, a start-up where I launched an online tool for home energy/carbon audit with my colleagues, which is adopted by multiple electric utilities nationwide.
+I received my doctorate in Engineering and Public Policy from Carnegie Mellon University (USA), where I investigated the behavioral aspects of the limited adoption of efficient technologies. I hold an MESc from Yale School of Forestry and Environmental Studies (USA) and an MS in electrical engineering from Seoul National University (Korea).
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 

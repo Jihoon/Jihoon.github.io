@@ -45,7 +45,7 @@ redirect_from:
   * Co-chair, Committee on Cultural Diversity and Building a Positive Work Environment, IIASA, 2018
   * Liaison for Diversity Committee, Staff Association Committee, IIASA, 2017
 * External
-  * Topic editor, Sustainability (MDPI), 2020 -
+  * Editorial Board Member, Journal of Climate Change Research, 2021 -
   * Head of the Energy and Environment Section, Korean Scientists and Engineers Association in Austria (KOSEAA), Austria, 2017 -
 * Review activities
   * Nature Sustainability, Global Environmental Change, Environmental Research Letters, Climatic Change, Energy Economics, Journal of Industrial Ecology, Sustainability, Energies, Journal of Environmental Management, Journal of Economic Structures, and GAIA - Ecological Perspectives for Science and Society

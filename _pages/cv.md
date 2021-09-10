@@ -28,10 +28,10 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Engineering and Public Policy, Carnegie Mellon University, 2014
-* Master of Environmental Science, Yale School of Forestry and Environmental Studies, Yale University, 2008
-* M.S. in Electrical Engineering, Seoul National University, 2001
-* B.S. in Electrical Engineering, Seoul National University, 1999
+* Ph.D. in Engineering and Public Policy, Carnegie Mellon University
+* Master of Environmental Science, Yale School of Forestry and Environmental Studies, Yale University
+* M.S. in Electrical Engineering, Seoul National University
+* B.S. in Electrical Engineering, Seoul National University
   * Cum Laude
 
 ## Skills

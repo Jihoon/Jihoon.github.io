@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Scholar at the Energy, Climate, and Environment (ECE) Program at IIASA, mainly affiliated with Transformative Institutional and Social Solutions (TISS) and Sustainable Service Systems (S3) Research Group. I joined IIASA in September 2015 and have broad research interests in the linkage between energy use, inequality, and development. I devoted my initial years at IIASA to the project [Decent Living Energy](https://www.decentlivingenergy.org/), where I investigated the implications of accomplishing decent living standards in developing countries on the global energy/emissions pathways. I am currently working on upscaling findings form the DLE project and incorporating them in the IIASA's integrated assessment model, MESSAGEix-GLOBIOM.
+I am a Research Scholar at the Energy, Climate, and Environment (ECE) Program at IIASA, mainly affiliated with Transformative Institutional and Social Solutions (TISS) and Sustainable Service Systems (S3) Research Group. I joined IIASA in September 2015 and have broad research interests in the linkage between energy use, inequality, and development. I devoted my initial years at IIASA to the project [Decent Living Energy (DLE)](https://www.decentlivingenergy.org/), where I investigated the implications of accomplishing decent living standards in developing countries on the global energy/emissions pathways. I am currently working on upscaling findings from the DLE project and incorporating them in the IIASA's integrated assessment model, MESSAGEix-GLOBIOM.
 
 ## Main research area
 * Energy Inequality, Energy and Human Wellbeing
